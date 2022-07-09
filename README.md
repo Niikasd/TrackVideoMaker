@@ -18,3 +18,9 @@ How to run:
 1. Open command line and move to the directory.
 2. Run ```python trackvideomaker.py```.
 3. The frames will start appearing in the 'Frames' folder.
+
+NOTE: The program takes hours to finish every frame.
+
+Customization:
+- To change which track or between course and lap records, open "list of track IDs' and change the track ID on line 12.
+- Country colors can be modified by opening 'Names_colors' and editing the list with the RGB codes. (Open "List of country IDs" to find which ID is which country).
