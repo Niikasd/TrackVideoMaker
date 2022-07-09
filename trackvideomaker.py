@@ -173,8 +173,7 @@ for i in range(week_count):
 	old_top = top_10
 	current_date+=week
 	print(current_date)
-	if current_date > 1615142991:
-		main()
+	main()
 
 		
 	
