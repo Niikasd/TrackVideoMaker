@@ -38,6 +38,6 @@ If you want the lap, write TrackID+1
 69 = Spyro Circuit
 71 = Nina's Nightmare
 73 = Koala Carnival
-75 = Gingerbread Joyrid
-77 = Megamix Mani
-79 = Drive-Thru Dange
+75 = Gingerbread Joyride
+77 = Megamix Mania
+79 = Drive-Thru Danger
