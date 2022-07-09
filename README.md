@@ -2,7 +2,7 @@
 https://imgur.com/a/LFxtGAo
 https://www.youtube.com/embed/0fi65QKyT2E 
 
-[![Video Demonstration](https://imgur.com/a/LFxtGAo)](https://www.youtube.com/embed/0fi65QKyT2E  "Video Demonstration")
+[!Video Demonstration](https://imgur.com/a/LFxtGAo)](https://www.youtube.com/embed/0fi65QKyT2E  "Video Demonstration")
 Trackvideomaker is a tool I made inspired by the genre of graph progress videos such as 'Chess Elo Rating Over time'.
 
 What it does is that it takes the user submitted data from CrashTeamRanking and converts them into individual video frames that can then be merged into a video.
