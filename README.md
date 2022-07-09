@@ -1,7 +1,4 @@
 # TrackVideoMaker
-https://imgur.com/a/LFxtGAo
-https://www.youtube.com/embed/0fi65QKyT2E 
-
 [![Video Demonstration](https://i.imgur.com/85QDRiI.png)](https://www.youtube.com/embed/0fi65QKyT2E  "Video Demonstration")
 Trackvideomaker is a tool I made inspired by the genre of graph progress videos such as 'Chess Elo Rating Over time'.
 
