@@ -12,14 +12,14 @@ I have included the database as of 9.7.2022, as well as current username list an
 
 Prerequisites:
 1. Python 3
-2. Pycairo (To install pycairo may requrie some further prerequisites, read more here: https://pycairo.readthedocs.io/en/latest/getting_started.html)
+2. Pycairo (Installing pycairo may require some further prerequisites, read more here: https://pycairo.readthedocs.io/en/latest/getting_started.html)
 
 How to run:
-1. Open command line and move to the directory.
+1. Open a command line and move to the directory.
 2. Run ```python trackvideomaker.py```.
 3. The frames will start appearing in the 'Frames' folder.
 
-NOTE: The program takes hours to finish every frame.
+NOTE: The program takes hours to finish, as creating the frames is very time intensive.
 
 Customization:
 - To change which track or between course and lap records, open "list of track IDs' and change the track ID on line 12.
